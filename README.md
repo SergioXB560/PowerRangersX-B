@@ -1,2 +1,1 @@
 # PowerRangersX-B
-# Sergio
