@@ -20,3 +20,9 @@ p{font-family:arial;
  font-size:12px;
  background-color:black;}
 ul{color:darkblue;font-family:calibri;font-size}
+
+img {display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 200 px;
+    }
