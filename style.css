@@ -1,16 +1,16 @@
 html {
-  height: 100%;
-  background: 50% 50% no-repeat
+  height: 100 %;
+  background: 50 % 50 % no-repeat
     url('data:image/svg+xml,<svg viewBox="-20 -5 60 40" width="140" xmlns="http://www.w3.org/2000/svg" opacity="0.2"><path d="M1 8l11-7 11 7v8l-11 7-11-7zm0 0l11 8 11-8m0 8L12 8 1 16M12 1v7m0 8v7" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="2"/><text x="-12" y="32" font-size="5" font-family="monospace" fill="currentColor">Built on CodePen</text></svg>');
 }
 
 body{background-color:skyblue;
-    border-radius:25px;}
+    border-radius:25 px;}
 h1{text-align:center;
    color:black;
    font-family:calibri;
   font-weight:bold;
-   font-size:50px;
+   font-size:50 px;
  }
 marquee{background-color:white;
        color:darkblue;font-family:arial;
@@ -18,7 +18,7 @@ marquee{background-color:white;
 p{font-family:arial;
  color:yellow;
  font-weight:bold;
- font-size:40px;
+ font-size:40 px;
  background-color:black;}
 ul{color:darkblue;font-family:calibri;font-size}
 
@@ -27,15 +27,17 @@ img {display: block;
      width: 50%;
      
     }
+     
 li {display:inline;
-    margin-right:20px;
+    margin-right:20 px;
     solid:white;
     text-align:center;
-    margin-left:20px;
-    font-size:50px;
+    margin-left:20 px;
+    font-size:50 px;
    }
+     
 ul {List-style-type:none;
     background-color:white;
-    text-align:center
+    text-align:center;
    }
-e
+
