@@ -24,8 +24,8 @@ ul{color:darkblue;font-family:calibri;font-size}
 img {display: block;
      margin-left: auto;
      margin-right: auto;
-     width: 10 px;
-     size: 
+     width: auto;
+     size: auto:
     }
 li {display:inline;
     margin-right:20px;
@@ -35,4 +35,5 @@ li {display:inline;
    }
 ul {List-style-type:none;
     background-color:white;
+    text-align:center
    }
