@@ -16,7 +16,8 @@ h1{text-align:center;
 
 marquee{background-color:white;
        color:darkblue;font-family:arial;
-       outline:solid black;}
+       outline:solid black;
+       font-size: 50 px;}
 
 p{font-family:arial;
  color:yellow;
@@ -24,14 +25,13 @@ p{font-family:arial;
  font-size:40 px;
  background-color:black;}
 
-ul{color:darkblue;font-family:calibri;font-size;
+ul{color:darkblue;font-family:calibri;
   }
 
 img {display: block;
      margin: auto;
      width: 500 px;
-     
-    }
+     }
      
 li {display:inline;
     margin-right:20 px;
