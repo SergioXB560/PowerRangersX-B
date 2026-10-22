@@ -23,10 +23,9 @@ p{font-family:arial;
 ul{color:darkblue;font-family:calibri;font-size}
 
 img {display: block;
-     margin-left: auto;
-     margin-right: auto;
-     width: auto;
-     size: auto:
+     margin: auto
+     width: 50%;
+     
     }
 li {display:inline;
     margin-right:20px;
