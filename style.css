@@ -47,4 +47,13 @@ ul {List-style-type:none;
     background-color:white;
     text-align:center;
    }
-
+a  {display:inline;
+    margin-right:20 px;
+    text-align:center;
+    margin-left:20 px;
+    font-size:50 px;
+   }
+nav {List-style-type:none;
+    background-color:white;
+    text-align:center;
+    }
